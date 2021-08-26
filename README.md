@@ -1,6 +1,7 @@
 # 2810ICT---Assignment1---Word-Ladder
 ---
 **Assignment Description**
+
 This assignment is a small group based assignment that requires a Python program to be
 completed that demonstrates understanding of the scripting languages taught in the course.
 As part of completing the program, existing functionality will need to be tested to ensure it
