@@ -1,0 +1,6 @@
+__pycache__/
+.vscode/
+htmlcov/
+.coverage
+Assignment 1.pdf
+Report.doc
